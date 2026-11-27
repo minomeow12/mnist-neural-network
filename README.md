@@ -53,7 +53,7 @@ pip install numpy pandas matplotlib
 3. Run the Python file:
 
 ```bash
-python mnist-neural-network.py
+python mnist_neural_network.py
 ```
 
 4. Choose experiment 1, 2, or 3.
